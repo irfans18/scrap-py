@@ -1,0 +1,485 @@
+User,Handle,PostDate,TweetText,ReplyCount,RetweetCount,LikeCount
+AYDIN,@aydin_diler,2022-01-17T15:34:45.000Z,"AYDIN
+@aydin_diler
+·
+Jan 17Python GUI Development With PySimpleGUI https://youtu.be/-_z2RPAH0Qk 
+@YouTube
+ aracılığıyla
+The following media includes potentially sensitive content. Change settings
+View",,,
+つぼっく@今年の目標はCISSP取得。,つぼっく@今年の目標はCISSP取得。,2022-01-17T15:23:32.000Z,"つぼっく@今年の目標はCISSP取得。
+@ytsuboi0322
+·
+Jan 17そうか、MapオブジェクトじゃなくてHTMLを表示させられればいいのか。PySimpleGUIでHTMLどうやって（ｒｙ
+1",,,1
+つぼっく@今年の目標はCISSP取得。,つぼっく@今年の目標はCISSP取得。,2022-01-17T15:03:20.000Z,"つぼっく@今年の目標はCISSP取得。
+@ytsuboi0322
+·
+Jan 17PySimpleGUIのCanvasがよくわからん。。。ホントわからん。。。どうやってfoliumやipyleafletのMapオブジェクトを表示できるんだ・・・
+1
+1",1,,1
+Ganzy（ガンジー）画像処理エンジニア@NFTアート創作中。。,Ganzy（ガンジー）画像処理エンジニア@NFTアート創作中。。,2022-01-17T10:31:07.000Z,"Ganzy（ガンジー）画像処理エンジニア@NFTアート創作中。。
+·
+Jan 17[ブログ更新]PysimpleGUIによるOpenCVを用いた2値化処理GUIの作成方法について紹介しております。pythonでGUIを作成してみたいと考えている方の手助けになるかと思います！！
+#python #pysimpleGUI
+#opencv #GUI
+ganfreeimages.com
+PySimpleGUIによるOpnenCVを用いた2値化処理ソフトの作成方法について！！
+Ganzyこんにちは、Ganzyです！！今回はPySimpleGUIを用いた画像処理GUIの作成方法について紹介します！！GUIはグラフィックユーザーインターフェースの略語になっており、マウス操作などによってパラメータ調整や処理の実行が可能
+2",,2,
+James Abel,@JamesAbel,2022-01-17T05:37:35.000Z,"James Abel
+@JamesAbel
+·
+Jan 17Join me at Meet Mike Driscoll and learn how to create GUIs with PySimpleGUI this Wednesday! ⁦
+@driscollis
+⁩ ⁦
+@PolkPhebe
+⁩
+meetup.com
+Meet Mike Driscoll and learn how to create GUIs with PySimpleGUI | Meetup
+Wed, Jan 19, 6:30 PM PST: SF Python is starting our first meetup of 2022 with the incredible Michael Driscoll. You've probably stumbled upon his popular blog ""Mouse vs Python"", read one of his books
+4
+14",,4,14
+こなさん@精神科通院歴16年のフリーランス,こなさん@精神科通院歴16年のフリーランス,2022-01-17T04:42:31.000Z,"こなさん@精神科通院歴16年のフリーランス
+@sorabin_
+·
+Jan 17Replying to 
+@sudo___roa___
+ほうほう
+私は以前 PySimpleGUI 使ったので気になった次第です
+1
+1",1,,1
+鶴谷,@TTsurutani,2022-01-14T23:39:46.000Z,"鶴谷
+@TTsurutani
+·
+Jan 15偶然みつけたがPySimpleGUIは分かりやすいかも
+
+コードと出来上がるGUIの対応関係がTkinterより直感的
+
+Tkinterのラッパーとのこと。こういう仕事で世界は良くなっていく
+1
+1",1,,1
+Mike Driscoll,@driscollis,2022-01-13T15:06:23.000Z,"Mike Driscoll
+@driscollis
+·
+Jan 13Replying to 
+@__mharrison__
+I'm working on a talk for the SF Python meetup on creating GUIs with PySimpleGUI
+1
+1
+16",1,1,16
+大学教員 田中,@tanaka_univ,2022-01-13T12:16:01.000Z,"大学教員 田中
+@tanaka_univ
+·
+Jan 13PySimpleGUIでGUIアプリを作ってたんだけど、やはり、調べれば調べるほどいろんなやり方が出てくる…
+おそらく今日書いたコードは1ヶ月後の自分から見たらすごく幼稚なコードなんだろうな…
+
+でも、今、動くことに意味がある。
+動かない綺麗なコードより、動くクソコード。
+1",,,1
+大学教員 田中,@tanaka_univ,2022-01-13T07:39:10.000Z,"大学教員 田中
+@tanaka_univ
+·
+Jan 13PySimpleGUIを触り始めた。
+たしかに楽しい笑",,,
+破壊,@decolIete,2022-01-13T05:30:47.000Z,"破壊
+@decolIete
+·
+Jan 13Replying to 
+@jumang4423
+pySimpleGUIの適当なテーマ使ってる
+1",1,,
+My Virtual Doctor,@MyVirtualDocto3,2022-01-12T19:46:42.000Z,"My Virtual Doctor
+@MyVirtualDocto3
+·
+Jan 13Look what I have got out of the crucible of #billgates kitchen!
+An app for #endoscopy reporting, built using #pysimplegui #tkinter #python #sqlite.
+
+Ready for trial on your machine, if you do this procedure.
+youtube.com
+Demo of Nimzoft Gastroscopy Reporting Tool built using #python...
+I am super excited to be able to not only code this tool; but also to be able to deliver it as an executable stand alone app for pilot testing.I am ready to ...
+1",,1,
+Mike Driscoll,@driscollis,2022-01-12T16:16:11.000Z,"Mike Driscoll
+@driscollis
+·
+Jan 12Replying to 
+@mathsppblog
+I've heard good things about PyArcade and 
+@realpython
+ has a couple of articles on it.
+
+PySimpleGUI is probably a good one too.
+1
+5",1,,5
+insom ne ya,@insom_ai333,2022-01-12T14:46:47.000Z,"insom ne ya
+@insom_ai333
+·
+Jan 12Replying to 
+@mathsppblog
+turtle
+pygame
+matplotlib
+pysimplegui
+plotly
+1
+6",1,,6
+mat,@ballforest,2022-01-10T06:55:08.000Z,"mat
+@ballforest
+·
+Jan 10はてなブログに投稿しました #はてなブログ
+PySimpleGUIとPyAudioとPyWORLDを使ったリアルタイムボイスチェンジャーの実装 - 備忘録
+tam5917.hatenablog.com
+PySimpleGUIとPyAudioとPyWORLDを使ったリアルタイムボイスチェンジャーの実装 - 備忘録
+こんな感じ。 pysimpleguiとpyaudioとpyworldでボイスチェンジャーができた pic.twitter.com/5V8A6I9ZX4— mat (@ballforest) January 10, 2022 ソースコードは以下。スペクトルのプロット機能はおまけのようなもの。 Real-time voic…
+9
+27",,9,27
+Godiva,@import_godiva,2022-01-10T06:34:31.000Z,"Godiva
+@import_godiva
+·
+Jan 10pysimplegui、使ったことないけど流行ってるのかな。",,,
+mat,@ballforest,2022-01-10T06:32:01.000Z,"mat
+@ballforest
+·
+Jan 10pysimpleguiとpyaudioとpyworldでボイスチェンジャーができた
+3
+28",,3,28
+eheka@アクチュアリー試験,eheka@アクチュアリー試験,2022-01-10T02:01:25.000Z,"eheka@アクチュアリー試験
+@ehekatlact
+·
+Jan 10PySimpleGUI
+
+カーソルの位置を取得できないので、日本語と英語を切り替えるとカーソルが先頭に戻ってしまう・・・
+
+英語のテキストボックスの上に、透明な日本語のテキストボックスをかぶせることでごまかす
+
+分からん英語があるときは、日本語側の透明化を解除すれば和文を確認できるって寸法よ",,,
+mat,@ballforest,2022-01-09T16:32:39.000Z,"mat
+@ballforest
+·
+Jan 9PyWORLDでスペクトル包絡を抽出 /  はてなブログに投稿しました #はてなブログ
+PyAudioとPySimpleGUIを使ったリアルタイムスペクトル包絡表示 - 備忘録
+tam5917.hatenablog.com
+PyAudioとPySimpleGUIを使ったリアルタイムスペクトル包絡表示 - 備忘録
+タイトルの通り。PyWORLDを使ってスペクトル包絡を抽出した。 gist.github.com 軸の表示は今後の課題。
+2
+8",,2,8
+mat,@ballforest,2022-01-09T16:06:09.000Z,"mat
+@ballforest
+·
+Jan 9表示するものを変えただけ / はてなブログに投稿しました #はてなブログ
+PyAudioとPySimpleGUIを使ったリアルタイムFFTスペクトル表示 - 備忘録
+tam5917.hatenablog.com
+PyAudioとPySimpleGUIを使ったリアルタイムFFTスペクトル表示 - 備忘録
+タイトルの通り。軸の表示やラベルは今後の課題。 gist.github.com
+2
+4",,2,4
+mat,@ballforest,2022-01-09T15:43:26.000Z,"mat
+@ballforest
+·
+Jan 9はてなブログに投稿しました #はてなブログ
+PySimpleGUIとPyAudioを使ったリアルタイム波形プロット - 備忘録
+tam5917.hatenablog.com
+PySimpleGUIとPyAudioを使ったリアルタイム波形プロット - 備忘録
+偉大なる先人のプログラムを参考に書いてみたということ。 gist.github.com 参考： Real Time PyAudio wave plot and FFT transform plots from microphone · GitHub
+3
+13",,3,13
+DLビギナ,@dl_from_scratch,2022-01-09T15:14:10.000Z,"DLビギナ
+@dl_from_scratch
+·
+Jan 9Pythonでも簡単にGUIを作れたら…
+かなり簡単なGUIでいいから手早く用意したいなら、PySimpleGui。
+
+PySimpleGuiは誰でも簡単にGUIを実装できるのが特徴だそうです。
+qiita.com
+Pythonでも簡単にGUIは作れる - Qiita
+PythonだってGUIを作りたい Pythonで書いたプログラムを実行して使う場合、『GUIで入出力できたら便利なのに…』と思うときはありませんか？ 誰かにプログラムを配布する場合でも、CUI(コマンドラインから入出力)はあ...",,,
+SARDONYX,@SARDONYX_sard,2022-01-04T04:09:44.000Z,"SARDONYX
+@SARDONYX_sard
+·
+Jan 4DockerからPySimpleGUIをwindowsに出そうとして6時間ぐらい格闘。そして何も進展なし…
+以前似たようなことをやってできたんだが…
+.devcontainerの知見は少し集まったけれど結局友人の助けにはならなかった。無念。
+1",1,,
+Shumayl,@Shumayl_,2022-01-03T10:16:01.000Z,"Shumayl
+@Shumayl_
+·
+Jan 3Replying to 
+@amgadelsaiegh
+I like pysimplegui for its simplicity, but it's not as flexible as PyQt.
+1",,,1
+じゃんきー,@junky_poke_,2022-01-02T13:50:27.000Z,"じゃんきー
+@junky_poke_
+·
+Jan 2昨日のpysimpleguiの続きなんだけど、Anaconda内のモジュール適切に引っ張ってこれてないなー。
+3",,,3
+かず,@kaz1019,2022-01-02T11:47:59.000Z,"かず
+@kaz1019
+·
+Jan 2Pythonの勉強。
+PySimpleGUIを試した。
+
+YouTube動画のとおりにコードを入力。
+
+実行、
+動いた。
+
+メソッドやプロパティの指定は、大文字小文字を区別する。
+VS Code（のプラグイン）は、文字の色が変わるので見やすい。
+白文字が残っていると動かない。
+
+#継続的勉強意欲
+1
+2",,1,2
+Local Ghost,@viniciuscgp,2021-12-26T01:16:57.000Z,"Local Ghost
+@viniciuscgp
+·
+Dec 26, 2021Replying to 
+@lucas59356
+Man, PySimpleGUI is very interesting, and it's really simple to use ! I hope the project continue, the creator is asking for help.
+1",,,1
+My Virtual Doctor,@MyVirtualDocto3,2021-12-25T15:26:52.000Z,"My Virtual Doctor
+@MyVirtualDocto3
+·
+Dec 25, 2021Merry Christmas and a happy new yr!
+
+I am not sure how others spend their time during long holidays.
+
+I could not sit before a television following a family time.
+
+I kept getting the urge to go code #python, some #pysimplegui and then this came out!
+
+I th…
+linkedin.com
+Nimzing Ladep on LinkedIn: #python #pysimplegui #softwaredevelopment
+Merry Christmas and a happy new yr! I am not sure how others spend their time during long holidays. I could not sit before a television following a family...
+1",,1,
+Python Developer,@Python_Dv,2021-12-25T07:21:09.000Z,"Python Developer
+@Python_Dv
+·
+Dec 25, 2021Python GUI Development With PySimpleGUI
+#python
+morioh.com
+Python GUI Development With PySimpleGUI
+Python GUI Development With PySimpleGUI. You can use Python and the PySimpleGUI package to create nice-looking user interfaces that you and your users will enjoy! PySimpleGUI is a new Python GUI...
+4
+7",,4,7
+せきね,@104_1113,2021-12-25T04:26:32.000Z,"せきね
+@104_1113
+·
+Dec 25, 2021pythonでGUI作る時はPySimpleGUIっていうライブラリオススメ
+1",,,1
+DM@VTuberの推し事のPro,DM@VTuberの推し事のPro,2021-12-25T02:52:24.000Z,"DM@VTuberの推し事のPro
+@dandymania_tw
+·
+Dec 25, 2021Replying to 
+@okajimania
+最近PySimpleGUI完全に理解したばかりなのに！やったぜ嬉しい( ´∀｀)
+1",1,,
+Lucão@127.0.0.1,Lucão@127.0.0.1,2021-12-24T21:45:53.000Z,"Lucão@127.0.0.1
+@lucas59356
+·
+Dec 25, 2021Replying to 
+@viniciuscgp
+I was looking about PySimpleGUI
+
+Might add in nixpkgs
+1
+1",1,,1
+PySimpleGUI,@PySimpleGUI,2021-12-24T20:14:17.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 25, 2021Replying to 
+@mbilyanov
+Perhaps ""decommission"" is a better word.  The account will exist, but the profile will make clear that it's not active & messages aren't checked.  
+My hope is by stating explicitly that PySimpleGUI doesn't have social media accounts that it'll be understood who is/isn't present.",,,
+Milen Bilyanov,@mbilyanov,2021-12-24T17:59:42.000Z,"Milen Bilyanov
+@mbilyanov
+·
+Dec 25, 2021Replying to 
+@PySimpleGUI
+I love the project, but closing this account is not a good idea. This account is how I got to know about the PySimpleGUI project after all. So it will be the gateway for many others and besides, people will create fake accounts anyway. Why not keep the real thing around?
+1",1,,
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:57:21.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021The support over the past week, the sponsorships, donations, and incredibly kind words are SO appreciated and helped me get through the final part of the course. I'm quite hopeful for the future of PySimpleGUI and love this experience. It is truly unbelievable at times.  & !
+2
+14",,2,14
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:52:57.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021The words ""Thank you"" fall short of the gratitude I feel for the individuals that have been selflessly helping me move in a positive direction.  Every morning I write a list of things that I'm thankful for. Users & friends make it an easy list to make. That itself is priceless.
+2",,,2
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:52:57.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021The messages I read... and re-write in my lab notebook... have been heartwarming, motivating, and touching to the point I'm in tears by the end of the message. I've never experienced anything so special and this part of my life is something I cherish.
+1",1,,
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:52:56.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021I have no doubt that the PySimpleGUI users will benefit from this move.
+
+I frequently see what you are building with PySimpleGUI and it's been one of the most joyful parts of my life.  It's a guilty pleasure to marvel at the creativity of others.
+1",1,,
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:52:56.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021project account.  The home for PySimpleGUI has always been http://PySimpleGUI.com (GitHub) and http://PySimpleGUI.org (ReadTheDocs), not Twitter or other social media sites.  I'm still going to be at that home address, as accessible as ever.
+1
+1",1,,1
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:52:56.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021Over the past weeks, I've been absent from Twitter  & PySimpleGUI installs increased. I'm clearly not having an impact on the user community by being here.
+The reason for announcing this is so that if a PySimpleGUI account does surface somewhere, then it's likely not an official
+1",1,,
+PySimpleGUI,@PySimpleGUI,2021-12-24T16:52:55.000Z,"PySimpleGUI
+@PySimpleGUI
+·
+Dec 24, 2021From the beginning, I wanted PySimpleGUI to be about the user, and that none of it be about ME, Mike. The users are the center of the PySimpleGUI universe. But the impact of being on Social Media does impact me & my ability to focus on making this experience a great one for all.
+1",1,,
+Qiitaマイルストーン,@qiita_milestone,2021-12-23T03:00:00.000Z,"Qiitaマイルストーン
+@qiita_milestone
+·
+Dec 23, 202110LGTM！ | Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】 by 
+@ku_ai_dl
+qiita.com
+Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】 - Qiita
+0. はじめに 今年Pythonの記事を結構書いてきましたが、最近の記事かつまぁまぁ閲覧数が多かったのがGUIの記事【PySimpleGUI】PythonでオリジナルGUIアプリを作成 だった為に需要はそこそこあると判断し、本...
+1",,,1
+Jamie Heather,@jamimmunology,2021-12-22T19:32:56.000Z,"Jamie Heather
+@jamimmunology
+·
+Dec 23, 2021Stitchr has some other modes too. If you aren’t so happy at the command line, or if you have an alpha-beta pair you want to make into a single linked expression vector, you could use the GUI version (made possible with the excellent 
+@PySimpleGUI
+)
+1
+2",1,,2
+smj_tcBt,@smj_tcBot,2021-12-21T02:37:06.000Z,"smj_tcBt
+@smj_tcBot
+·
+Dec 21, 2021Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】
+qiita.com
+Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】 - Qiita
+0. はじめに 今年Pythonの記事を結構書いてきましたが、最近の記事かつまぁまぁ閲覧数が多かったのがGUIの記事【PySimpleGUI】PythonでオリジナルGUIアプリを作成 だった為に需要はそこそこあると判断し、本...",,,
+ogawa kiyoshi,@kaizen_nagoya,2021-12-20T22:50:58.000Z,"ogawa kiyoshi
+@kaizen_nagoya
+·
+Dec 21, 2021Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】 https://qiita.com/ku_a_i/items/e3fe06f24741bb7d6db7… #Qiita 
+@ku_ai_dl
+より
+qiita.com
+Pythonで簡単にGUIを作ろう！【PySimpleGUIケーススタディ】 - Qiita
+0. はじめに 今年Pythonの記事を結構書いてきましたが、最近の記事かつまぁまぁ閲覧数が多かったのがGUIの記事【PySimpleGUI】PythonでオリジナルGUIアプリを作成 だった為に需要はそこそこあると判断し、本...
+3",,,3
+健吾の進捗日記,@kn5nonikki,2021-12-15T02:26:39.000Z,"健吾の進捗日記
+@kn5nonikki
+·
+Dec 15, 20215.PySimpleGUI
+・一言
+お手軽デスクトップアプリ作成
+
+・使い方
+import pysimplegui as sg
+リストにエレメントを詰め込む
+window =sg.window：ウィンドウの設定
+while 1:
+    http://window.read()：表示かつイベントハンドラ
+
+・参照
+The following media includes potentially sensitive content. Change settings
+View
+1",1,,
+樹澄【手洗いこそ正義】,@clearwoods,2021-12-13T09:08:57.000Z,"樹澄【手洗いこそ正義】
+@clearwoods
+·
+Dec 13, 2021(´･ω･`)ブロック崩しゲーム、tkinter(というかtkinterで書かれたpysimplegui)さんがマウスイベントに関数をbindしてもevent引数をくれないという謎の現象にぶつかって詰んでる。なんで。
+1",1,,
+sterrefani,@tehmukai,2021-12-13T08:47:36.000Z,"sterrefani
+@tehmukai
+·
+Dec 13, 2021Import “PySimpleGUI” could not be resolved.
+
+vai tomar no meio do cu oq eu faço SOCORR
+1",,,1
+Ben Hilburn,@bhilburn,2021-12-16T19:45:09.000Z,"Ben Hilburn
+@bhilburn
+·
+Dec 17, 2021So, PySimpleGUI filed a bug against some SigMF code for a bad design pattern, and appears to have some custom-designed emojis / sticker responses. Pretty neat idea 
+2
+6",2,,6
+"Luigi IV, Conspiracy practician",@LuigiVercotti4,2021-12-16T18:25:04.000Z,"Luigi IV, Conspiracy practician
+@LuigiVercotti4
+·
+Dec 17, 2021If you're a casual Python user and  you're looking for some GUI that is developer-friendly you should definitely check 
+@PySimpleGUI
+ guys and support their efforts
+1",,,1
+ゆづる,@792458yuzuru,2021-12-16T16:43:51.000Z,"ゆづる
+@792458yuzuru
+·
+Dec 16, 2021Pythonやっぱ楽。
+ただ、PySimpleGUIをあまり覚えていなかった。
+2",,,2
+Matthew Rowles,@xray_matt,2021-12-16T14:27:15.000Z,"Matthew Rowles
+@xray_matt
+·
+Dec 16, 2021 I'm sponsoring 
+@PySimpleGUI
+ because I couldn't make GUIs without it! #python #gui
+github.com
+Sponsor @PySimpleGUI on GitHub Sponsors
+PySimpleGUI makes creating Python GUIs trivial. Your code will run on Windows, Mac & Linux with no changes. A complete set of widgets can be arranged in any manner. Multi-window, multi-threaded...
+2
+3",,2,3
+adrastea,@adrastea_j,2021-12-12T21:42:35.000Z,"adrastea
+@adrastea_j
+·
+Dec 13, 2021今日もPythonでPySimpleGUIの練習。
+郵便番号から住所を検索するWebAPIと組み合わせたアプリの写経。",,,
+okazaki jun,@dario_okazaki,2021-12-12T09:08:53.000Z,"okazaki jun
+@dario_okazaki
+·
+Dec 12, 2021なかなか便利そうなアプリでした
+
+DeepL API x PySimpleGUIで翻訳支援アプリを作成 https://qiita.com/NSsystems_DX/items/18a01f195c31f1d1db8c… #Qiita 
+@NSsystems_DX
+より
+qiita.com
+DeepL API x PySimpleGUIで翻訳支援アプリを作成 - Qiita
+はじめに はじめまして。NSシステムズと申します。 今更ながらDeepLの世界一の翻訳精度かつ無料のDeepL API Freeに感動しましたので、 PythonのGUIライブラリで一番簡単なPySimpleGUIを使って翻訳...
+1
+3",,1,3
+健吾の進捗日記,@kn5nonikki,2021-12-11T16:39:53.000Z,"健吾の進捗日記
+@kn5nonikki
+·
+Dec 11, 20215.PySimpleGUI
+・一言
+お手軽デスクトップアプリ作成
+
+・使い方
+import pysimplegui as sg
+リストにエレメントを詰め込む
+window =sg.window：ウィンドウの設定
+while 1:
+    http://window.read()：表示かつイベントハンドラ
+
+・参照
+youtube.com
+Pythonでデスクトップアプリを作成！PySimpleGUI編 【Pythonプログラミング 初心者向け】
+訂正: Web APIのレスポンスのステータスを判断するコードは以下の方が適切でした。if res.status_code == 200: res_json = res.json()==============================Pythonプログラミングに関する情報を発信しているサプーです！ ...
+2",,,2
+のんびりブログ,@no3bg,2021-12-11T15:39:36.000Z,"のんびりブログ
+@no3bg
+·
+Dec 11, 2021PySimpleGUIでテーマを見る方法。
+一覧で見る方法と、リストを使って見る方法がある。
+
+方法はこちら
+https://nonbiri3.com/?p=2120
+
+#python
+#プログラミング初心者
+6",,,6
