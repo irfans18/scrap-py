@@ -197,7 +197,7 @@ def main(search_term, filepath, page_sort='Latest'):
 
 
 if __name__ == '__main__':
-   path = '#AyoVaksinBooster.csv'
-   term = '#AyoVaksinBooster'
+   path = '#omicron.csv'
+   term = '#omicron'
 
    main(term, path)
